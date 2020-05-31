@@ -11,7 +11,7 @@ Topics covered:
 -	Login and registration forms
 -	Sessions
 -	PDO
--	Little bit of relational database
+-	Usage of relational database
 
 After uploading:
 1. Import 'notes_manager.sql' file in phpMyAdmin panel (this file contains all necessary tables and columns which are required for this application to work properly).
