@@ -1,5 +1,5 @@
 <?php
-define('URLROOT', "http://localhost/notesManager_new/public");
+define('URLROOT', "http://localhost/notes_manager/public");
 
 define('DB_NAME', 'notes_manager');
 define('DB_HOSTNAME', 'localhost');
