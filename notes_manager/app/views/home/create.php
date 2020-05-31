@@ -8,8 +8,8 @@
 
     <form action="" method="post">
         <p><?php echo ($data['note_title_err'] ?? $data['note_content_err'] ?? '') ?></p>
-        <input type="text" name='note_title' value="<?php echo (isset($data['note_title']) ? $data['note_title'] : ''); ?>"> <br/>
-        <textarea name="note_content" id="" cols="30" rows="10"><?php echo (isset($data['note_content']) ? $data['note_content'] : ''); ?></textarea> <br/>
+        <input type="text" name='note_title'  placeholder="Type in a title" value="<?php echo (isset($data['note_title']) ? $data['note_title'] : ''); ?>"> <br/>
+        <textarea name="note_content" id="" cols="30" rows="10" placeholder="Type in a note"><?php echo (isset($data['note_content']) ? $data['note_content'] : ''); ?></textarea> <br/>
         <button type="submit" name="add_note_btn">Add note</button>
     </form>
 
