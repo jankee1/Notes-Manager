@@ -1,7 +1,7 @@
 # Notes-Manager
 
 1. Please note, that this project is not finished yet -> it lacks of front-end layer.
-2. Please note that this project lacks of '.htaccess' files which are crucial for launching this application (unfortunatlly github didn't allow this files to be part of my project and these files didn't appear in folder once it was uploaded).
+2. Please note that this project lacks of '.htaccess' files which are crucial for launching this application (unfortunatlly github didn't allow this files to be part of my project and these files didn't appear in folder once application was uploaded).
 
 Main goal of this project was to create application that allows me to practice SQL along with PHP programming skills.  Except from making my first fully working application with usage of these two languages my intention was also make this code understandable and easy to maintain, hence I tried to implement MVC design pattern
 
