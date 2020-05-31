@@ -17,6 +17,7 @@ After uploading:
 1. Import 'notes_manager.sql' file in phpMyAdmin panel (this file contains all necessary tables and columns which are required for this application to work properly).
 2. Copy 'notes_manager' folder directly to 'htdocs' folder (if you want to copy it to specific subfolder, make sure to update line 4 in '.htacces' file in 'public' folder and line 2 in 'config.php' file in 'app' folder).
 3. You can create your own account or use test account that is already created (login: 'test123', password: '123').
+4. All data necessery for connection to database are included in config.php file.
 
 Technologies used:
 * HTML 5
