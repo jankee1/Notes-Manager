@@ -2,9 +2,9 @@
 
 1. Please note, that this project is not finished yet -> it lacks of front-end layer.
 2. Please note that this project lacks of '.htaccess' files which are crucial for launching this application (unfortunatlly GitHub doesn't allow such files to be uploaded), hence:
-- go to notes_manager\app and create '.htacces' file. Inside this file type as follows:
+- go to notes_manager\app and create '.htacces' file. Inside this file type as follows: <br />
   Options -Indexes
-- go to notes_manager\public and create '.htacces'file. Inside this file type as follows:
+- go to notes_manager\public and create '.htacces'file. Inside this file type as follows: <br />
   Options -MultiViews <br />
   RewriteEngine On <br />
   RewriteBase /notes_manager/public <br />
