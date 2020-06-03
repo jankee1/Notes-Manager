@@ -27,7 +27,6 @@ Topics covered:
 -	Login and registration forms
 -	Sessions
 -	PDO
--	Usage of relational database
 
 Technologies used:
 * HTML 5
