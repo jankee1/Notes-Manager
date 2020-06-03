@@ -1,7 +1,9 @@
 # Notes-Manager
+Main goal of this project was to create application that allows me to practice SQL along with PHP programming skills. Except from making my first fully working application with usage of these two languages my intention was also to make this code understandable and easy to maintain, hence I tried to implement MVC design pattern
 
-1. Please note, that this project is not finished yet -> it lacks of front-end layer.
-2. Please note that this project lacks of '.htaccess' files which are crucial for launching this application (unfortunatlly GitHub doesn't allow such files to be uploaded), hence:
+## Please note, that:
+1. This project is not finished yet -> it lacks of front-end layer.
+2. This project lacks of '.htaccess' files which are crucial for launching this application (unfortunatlly GitHub doesn't allow such files to be uploaded), hence:
 - go to notes_manager\app and create '.htacces' file. Inside this file type as follows: <br />
   Options -Indexes
 - go to notes_manager\public and create '.htacces'file. Inside this file type as follows: <br />
