@@ -5,12 +5,12 @@
 - go to notes_manager\app and create '.htacces' file. Inside this file type as follows:
   Options -Indexes
 - go to notes_manager\public and create '.htacces'file. Inside this file type as follows:
-  Options -MultiViews__
-  RewriteEngine On__
-  RewriteBase /notes_manager/public__
-  RewriteCond %{REQUEST_FILENAME} !-d__
-  RewriteCond %{REQUEST_FILENAME} !-f__
-  RewriteRule  ^(.+)$ index.php?url=$1 [QSA,L]__
+  Options -MultiViews <br />
+  RewriteEngine On <br />
+  RewriteBase /notes_manager/public <br />
+  RewriteCond %{REQUEST_FILENAME} !-d <br />
+  RewriteCond %{REQUEST_FILENAME} !-f <br />
+  RewriteRule  ^(.+)$ index.php?url=$1 [QSA,L] <br />
 
 After downloading:
 1. Make sure that 'notes_manager' is copied directly to 'htdocs' folder.
