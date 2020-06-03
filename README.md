@@ -13,8 +13,6 @@ Main goal of this project was to create application that allows me to practice S
   RewriteCond %{REQUEST_FILENAME} !-d <br />
   RewriteCond %{REQUEST_FILENAME} !-f <br />
   RewriteRule  ^(.+)$ index.php?url=$1 [QSA,L] <br />
-  
-Main goal of this project was to create application that allows me to practice SQL along with PHP programming skills.  Except from making my first fully working application with usage of these two languages my intention was also to make this code understandable and easy to maintain, hence I tried to implement MVC design pattern
 
 ## After downloading:
 1. Make sure that 'notes_manager' is copied directly to 'htdocs' folder.
