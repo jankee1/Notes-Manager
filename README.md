@@ -3,8 +3,7 @@ Main goal of this project was to create application that allows me to practice S
 
 ## Please note, that:
 1. This project is not finished yet -> it lacks of front-end layer.
-2. This project lacks of '.htaccess' files which are crucial for launching this application (unfortunatlly GitHub doesn't allow such files to be uploaded), hence:
-
+2. This project lacks of '.htaccess' files which are crucial for launching this application (unfortunatlly GitHub doesn't allow such files to be uploaded), hence what should be done after downloading is written below.
 
 ## After downloading:
 1. Make sure that 'notes_manager' is copied directly to 'htdocs' folder.
